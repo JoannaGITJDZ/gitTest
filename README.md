@@ -1,0 +1,2 @@
+# gitTest
+nowe repozytorium
